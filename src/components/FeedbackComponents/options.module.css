@@ -1,0 +1,22 @@
+.section {
+  display: flex;
+  gap: 50px;
+}
+
+button {
+  border-radius: 40px;
+  cursor: pointer;
+  padding: 10px;
+}
+
+.good {
+  background-color: green;
+}
+
+.neutral {
+  background-color: gray;
+}
+
+.bad {
+  background-color: red;
+}
